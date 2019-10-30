@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+  {{- partial "head.html" . -}}
+  <body>
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    {{- partial "header.html" . -}}
+    <div id="content">
+    {{- block "main" . }}{{- end }}
+    </div>
+    {{- partial "footer.html" . -}}
+  </body>
+</html>
+

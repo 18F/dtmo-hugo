@@ -1,0 +1,7 @@
+<title>{{ .Site.Title }}</title>
+
+{{ $style := resources.Get "scss/uswds.scss" | toCSS }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+{{ $js := resources.Get "js/uswds.js" }}
+<script src="{{ $js.Permalink }}"></script>
