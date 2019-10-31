@@ -13,21 +13,7 @@
     <nav aria-label="Primary navigation" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close"><img src="/assets/img/close.svg" alt="close"></button>
-        <ul class="usa-nav__primary usa-accordion">
-          {{ range .Sections }}
-          <li class="usa-nav__primary-item">
-            <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="extended-nav-section-one"><span>{{ .Title }}</span></button>
-            <ul id="extended-nav-section-one" class="usa-nav__submenu">
-              {{ range .Pages }}
-              <li class="usa-nav__submenu-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-              {{ end }}
-            </ul>
-          </li>
-          {{ end }}
-          <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-          </li>
-        </ul>
+        {{ partial "primary-nav" .Site }}
         <div class="usa-nav__secondary">
           <ul class="usa-nav__secondary-links">
             <li class="usa-nav__secondary-item">
@@ -61,25 +47,8 @@
       </div>
       <nav aria-label="Primary navigation" class="usa-nav">
       <button class="usa-nav__close"><img src="/assets/img/close.svg" alt="close"></button>
-      <ul class="usa-nav__primary usa-accordion"><li class="usa-nav__primary-item">
-          <button class="usa-accordion__button usa-nav__link  usa-current" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Current section</span></button>
-          <ul id="basic-nav-section-one" class="usa-nav__submenu"><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li></ul></li><li class="usa-nav__primary-item">
-          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-two"><span>Section</span></button>
-          <ul id="basic-nav-section-two" class="usa-nav__submenu"><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li><li class="usa-nav__submenu-item">
-                    <a href="#">Navigation link</a>
-                  </li></ul></li><li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-          </li></ul><form class="usa-search usa-search--small ">
+      {{ partial "primary-nav" .Site }}
+        <form class="usa-search usa-search--small ">
         <div role="search">
           <label class="usa-sr-only" for="basic-search-field-small">Search small</label>
           <input class="usa-input" id="basic-search-field-small" type="search" name="search">
