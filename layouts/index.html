@@ -1,10 +1,13 @@
 {{ define "main" }}
 <main id="main-content">
+  {{ .Content }}
   <section class="usa-hero">
   <div class="grid-container">
     <div class="usa-hero__callout">
-      <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt">Hero callout:</span>Bring attention to a project priority
-      </h1><p>Support the callout with some short explanatory text. You don’t need more than a couple of sentences.</p><a class="usa-button" href="javascript:void(0)">Call to action</a>
+      <h1 class="usa-hero__heading">
+        <span class="usa-hero__heading--alt">{{ .Params.hero.heading }}</span>
+        {{ .Params.hero.callout }} 
+      </h1>{{ .Params.hero.explanation }}<a class="usa-button" href="javascript:void(0)">{{ .Params.hero.ctaBtn }}</a>
     </div>
   </div>
 </section>
@@ -69,4 +72,5 @@
   </section>
 
 </main>
+
 {{ end }}
