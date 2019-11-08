@@ -6,7 +6,7 @@
               <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-nav-section-{{ .Identifier }}"><span>{{ .Name }}</span></button>
               <ul id="extended-nav-section-{{ .Identifier }}" class="usa-nav__submenu">
                 {{ range .Children }}
-                <li class="usa-nav__submenu-item"><a href="{{ .Permalink }}">{{ .Name }}</a></li>
+                <li class="usa-nav__submenu-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
               </ul>
             </li>
