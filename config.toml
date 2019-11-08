@@ -27,12 +27,13 @@ sectionPagesMenu = "main"
     weight = 10
 
   [[menu.main]]
-    identifier = "support"
-    name = "Support"
-    weight = 40
-
-    [[menu.main]]
     identifier = "travel-administrators"
     name = "Travel Administrators"
     parent = "Support"
     url = "/support/travel-administrators/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Travel Administrators Reference"
+    parent = "Support"
+    url = "/support/travel-administrators/reference-materials/"
