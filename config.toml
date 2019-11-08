@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Defense Travel Management Organization"
+title = "Defense Travel Management Office"
 theme = "uswds-dtmo"
 
 sectionPagesMenu = "main"
