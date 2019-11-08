@@ -1,16 +1,18 @@
 
         <ul class="usa-nav__primary usa-accordion">
-          {{ range .Sections }}
-          <li class="usa-nav__primary-item">
-            <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="extended-nav-section-one"><span>{{ .Title }}</span></button>
-            <ul id="extended-nav-section-one" class="usa-nav__submenu">
-              {{ range .Pages }}
-              <li class="usa-nav__submenu-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-              {{ end }}
-            </ul>
-          </li>
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+            <li class="usa-nav__primary-item">
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-nav-section-{{ .Identifier }}"><span>{{ .Name }}</span></button>
+              <ul id="extended-nav-section-{{ .Identifier }}" class="usa-nav__submenu">
+                {{ range .Children }}
+                <li class="usa-nav__submenu-item"><a href="{{ .Permalink }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+            </li>
+            {{ else }}
+            {{/* TODO: .URL -> .Permalink when there's actually content in there */}}
+            <li class="usa-nav__primary-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{end}}
           {{ end }}
-          <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-          </li>
         </ul>

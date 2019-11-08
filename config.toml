@@ -2,3 +2,31 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Defense Travel Management Organization"
 theme = "uswds-dtmo"
+
+sectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "calculators"
+    name = "Calculators"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "handbook"
+    name = "Traveler's Handbook"
+    weight = 19
+
+  [[menu.main]]
+    identifier = "policy"
+    name = "Policy & Regulations"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "support"
+    name = "Support"
+    weight = 40
