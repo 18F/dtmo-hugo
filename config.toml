@@ -16,23 +16,37 @@ sectionPagesMenu = "main"
     identifier = "handbook"
     name = "Traveler's Handbook"
     url = "/handbook"
-    weight = 10
+    weight = 100
+
+ [[menu.main]]
+    identifier = "travel-administrators"
+    name = "Travel Administrators"
+    parent = "Support"
+    url = "/support/travel-administrators/"
+    weight = 101
+
+  [[menu.main]]
+    name = "Travel Administrators Reference"
+    parent = "Support"
+    url = "/support/travel-administrators/reference-materials/"
+    weight = 102
 
   [[menu.main]]
     identifier = "support"
     name = "Get Support"
     url = "support"
-    weight = 20
+    weight = 200
 
   [[menu.main]]
     identifier = "calculators"
     name = "Calculators"
     url = "calculators"
-    weight = 30
+    weight = 300
 
   [[menu.main]]
     identifier = "policy"
     name = "Policy & Regulations"
     url = "policy"
-    weight = 40
+    weight = 400
+
 
