@@ -1,4 +1,38 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Dee Tee Em Oh!"
+title = "Defense Travel Management Organization"
 theme = "uswds-dtmo"
+
+sectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "handbook"
+    name = "Traveler's Handbook"
+    url = "/handbook"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "support"
+    name = "Get Support"
+    url = "support"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "calculators"
+    name = "Calculators"
+    url = "calculators"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "policy"
+    name = "Policy & Regulations"
+    url = "policy"
+    weight = 40
+
