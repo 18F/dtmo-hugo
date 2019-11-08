@@ -5,6 +5,15 @@ theme = "uswds-dtmo"
 
 sectionPagesMenu = "main"
 
+########
+# Global Navigation
+# Position is determined by weight (lower number comes first)
+# Convention: xyy
+# x  = top level section
+# yy = secondary pages
+# tertiary pages probably shouldn’t show up in the global nav
+########
+
 [menu]
   [[menu.main]]
     identifier = "about"
