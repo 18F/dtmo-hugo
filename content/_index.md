@@ -9,4 +9,3 @@ hero:
   ctaBtn: Learn more
 ---
 
-things
