@@ -2,7 +2,7 @@
 title: "Handbook — New Employees"
 description: "Getting started with DOD travel"
 layout: "content"
-draft: true
+draft: false
 ---
 
 # Getting started with DOD Travel
