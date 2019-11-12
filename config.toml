@@ -27,18 +27,46 @@ sectionPagesMenu = "main"
     url = "/handbook"
     weight = 100
 
- [[menu.main]]
-    identifier = "travel-administrators"
-    name = "Travel Administrators"
-    parent = "Support"
-    url = "/support/travel-administrators/"
-    weight = 101
+    [[menu.main]]
+      identifier = "new-employees"
+      name = "For New Employees"
+      url= "/handbook/new-employees"
+      parent ="handbook"
+      weight = 101
+
+    [[menu.main]]
+    	identifier = "travel-tdy"
+    	name = "TDY Travel"
+    	url = "/handbook/tdy"
+    	parent ="handbook"
+    	weight = 102
+
+    [[menu.main]]
+    	identifier = "travel-international"
+    	name = "International Travel"
+    	url = "/handbook/travel-international"
+    	parent ="handbook"
+    	weight = 103
+
+    [[menu.main]]
+    	identifier = "moving-living-abroad"
+    	name = "Moving, Permanent Change of Station, and Living Abroad"
+    	url = "/handbook/moving-living-abroad"
+    	parent ="handbook"
+    	weight = 104
+
+    [[menu.main]]
+      identifier = "travel-administrators"
+      name = "Travel Administrators"
+      parent = "handbook"
+      url = "/support/travel-administrators/"
+      weight = 106
 
   [[menu.main]]
     name = "Travel Administrators Reference"
-    parent = "Support"
+    parent = "handbook"
     url = "/support/travel-administrators/reference-materials/"
-    weight = 102
+    weight = 107
 
   [[menu.main]]
     identifier = "support"
