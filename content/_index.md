@@ -8,5 +8,3 @@ hero:
   explanation: Vivamus eu nunc nec nisl pellentesque bibendum. Sed sed aliquam mi. Cras tristique lobortis.
   ctaBtn: Learn more
 ---
-
-things
