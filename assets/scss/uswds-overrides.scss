@@ -7,3 +7,13 @@
 }
 
 */
+
+@import 'fonts';
+
+.usa-prose {
+  font-family: 'Merriweather', serif;
+}
+
+[class*='heading'] {
+  font-family: 'Public Sans', sans-serif;
+}
