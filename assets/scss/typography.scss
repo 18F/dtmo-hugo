@@ -1,0 +1,58 @@
+.usa-prose {
+  color: $almost-black;
+  font-family: 'Merriweather', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+[class*='heading'] {
+  font-family: 'Public Sans', sans-serif !important;
+}
+
+.usa-logo a,
+.usa-logo a:visited {
+  color: $almost-black;
+}
+
+h1 {
+  color: $dark-blue;
+}
+
+h2 {
+  color: $darker-blue;
+}
+
+h3 {
+  color: $darker-blue;
+  font-weight: normal;
+}
+
+h4 {
+  color: $dark-grey;
+}
+
+h5 {
+  color: $dark-grey;
+}
+
+h6 {
+  color: $almost-black;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+a {
+  color: $dark-blue;
+}
+
+a:visited,
+input:not([disabled]):focus,
+select:not([disabled]):focus,
+textarea:not([disabled]):focus,
+button:not([disabled]):focus {
+  color: $medium-blue;
+}
