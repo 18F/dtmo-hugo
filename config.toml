@@ -71,19 +71,17 @@ sectionPagesMenu = "main"
   [[menu.main]]
     identifier = "support"
     name = "Get Support"
-    url = "support"
+    url = "/support"
     weight = 200
 
   [[menu.main]]
     identifier = "calculators"
     name = "Calculators"
-    url = "calculators"
+    url = "/calculators"
     weight = 300
 
   [[menu.main]]
     identifier = "policy"
     name = "Policy & Regulations"
-    url = "policy"
+    url = "/policy"
     weight = 400
-
-
