@@ -1,3 +1,9 @@
+---
+title: "Handbook"
+description: "DTMO Travel 101"
+layout: "content"
+---
+
 # DTMO Travel 101
 
 **Before booking travel**
