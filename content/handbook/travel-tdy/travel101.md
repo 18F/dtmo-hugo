@@ -1,6 +1,6 @@
 ---
 title: "Handbook"
-description: "DTMO Travel 101"
+description: "TDY Travel 101"
 layout: "content"
 ---
 
