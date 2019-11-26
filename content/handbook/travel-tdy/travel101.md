@@ -6,13 +6,15 @@ layout: "content"
 
 # TDY Travel 101
 
-**Before booking travel**
+## Before booking travel
+
 - Get set up in DTS
 - Get your travel card
 - Complete mandatory training in TraX
 
 
-**1. Booking travel**
+### 1. Booking travel
+
 - Create an authorization for approval 
 - Book a flight, train, or rental car
 - Book lodging
@@ -22,12 +24,14 @@ layout: "content"
 - Review and submit your authorization
 
 
-**2. While traveling**
+### 2. While traveling
+
 - Dining 
 - Get support
 
 
-**3. After traveling**
+### 3. After traveling
+
 - Submit your voucher for reimbursements
 
 
