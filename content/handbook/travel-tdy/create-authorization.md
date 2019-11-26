@@ -24,7 +24,7 @@ If this is your first time using DTS, it’s been over 30 days since you last va
 
 ### 4. Enter your details for Trip Overview: 
 
-- Dates will auto-populate to match your dates in the above fields. Modify any dates that aren't correct.
+- **Dates** will auto-populate to match your dates in the above fields. Modify any dates that aren't correct.
 - Enter where you’ll be **Leaving From** and **Returning To**. 
 - **Trip Duration** will also auto-populate.
 
