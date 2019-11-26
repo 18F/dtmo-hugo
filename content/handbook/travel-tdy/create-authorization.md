@@ -31,7 +31,12 @@ If this is your first time using DTS, it’s been over 30 days since you last va
 ### 5. Enter your Trip Details:
 
 - **Type:** Select **Temporary Duty Travel.**
-- **Purpose:** You'll have 5 options to select from: Conference - Non-training, Emergency - Personal, Mission - Operational, Special Agency Mission, or Training.
+- **Purpose:** Select one of the following: 
+1) Conference - Non-training 
+2) Emergency - Personal 
+3) Mission - Operational 
+4) Special Agency Mission 
+5) Training
 - **Description** (optional) 
 - **Conference** (if applicable)
 
