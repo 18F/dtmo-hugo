@@ -10,7 +10,7 @@ layout: "content"
 
 - Get set up in DTS
 - Get your travel card
-- Complete mandatory training in TRAX
+- Complete mandatory training in TraX
 
 
 ### 1. Booking travel
