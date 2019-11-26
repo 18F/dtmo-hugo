@@ -8,21 +8,21 @@ layout: "content"
 
 **Before booking travel**
 - Get set up in DTS
-- Get a travel card
-- Do your mandatory training in Trax 
+- Get your travel card
+- Do your mandatory training in TraX
 
 **1. Booking travel**
-- Create an itinerary for approval 
+- Create an authorization for approval 
 - Book a flight, train, or rental car
 - Book lodging
-- Estimate your costs / Per diem calculator
-- Submit your authorization
+- Estimate your expenses & per diem calculator  
 - Combining official & personal travel
 - Frequent Traveler Programs 
+- Review and submit your authorization
+
 
 **2. While traveling**
-- Dining receipts
-- More here
+- Dining 
 
 **3. After traveling & vouchers**
 - Getting your voucher approved
@@ -32,7 +32,7 @@ layout: "content"
 
 - Change a reservation
 - Emergency travel
-- Lost your travel card
+- Travel card issues
 
 ## Tools & resources
 - DTS
