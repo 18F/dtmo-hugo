@@ -4,7 +4,7 @@ description: "DTMO Travel 101"
 layout: "content"
 ---
 
-# DTMO Travel 101
+# TDY Travel 101
 
 **Before booking travel**
 - Get set up in DTS
