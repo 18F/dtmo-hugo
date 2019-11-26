@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', function (e) {
       const cells = Array.from(r.cells);
       cells.map((c, i) => {
         const cellHtml = c.innerHTML;
-        c.innerHTML = theadThs[i].innerText + cellHtml;
+
+        c.innerHTML = `<h4>${theadThs[i].innerText}</h4>` + cellHtml;
       })
     })
   }
