@@ -18,7 +18,7 @@ layout: "content"
 - [Create an authorization](../create-authorization/)
 - Book a flight, train, or rental car
 - Book lodging
-- Estimate your expenses & per diem calculator  
+- Estimate your expenses  
 - Combining official & personal travel
 - Frequent Traveler Programs 
 - Review and submit your authorization
