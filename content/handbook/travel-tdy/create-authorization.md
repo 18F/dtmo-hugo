@@ -40,5 +40,5 @@ If this is your first time using DTS, it’s been over 30 days since you last va
 - **Description** (optional) 
 - **Conference** (if applicable)
 
-### 6. Select Continue to save your itinerary! 
+### 6. Select Continue to save your itinerary 
 
