@@ -15,7 +15,7 @@ layout: "content"
 
 ### 1. Booking travel
 
-- [Create an authorization for approval](../create-authorization/)
+- [Create an authorization](../create-authorization/)
 - Book a flight, train, or rental car
 - Book lodging
 - Estimate your expenses & per diem calculator  
