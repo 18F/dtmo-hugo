@@ -1,6 +1,15 @@
 td,
-th {
+th,
+tr {
   display: block;
+}
+
+thead {
+  display: none;
+}
+
+tr {
+  margin-bottom: 1em;
 }
 
 @media (min-width: 64em) {
