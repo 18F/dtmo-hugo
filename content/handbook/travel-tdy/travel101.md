@@ -9,7 +9,8 @@ layout: "content"
 **Before booking travel**
 - Get set up in DTS
 - Get your travel card
-- Do mandatory training in TraX
+- Complete mandatory training in TraX
+
 
 **1. Booking travel**
 - Create an authorization for approval 
@@ -25,8 +26,9 @@ layout: "content"
 - Dining 
 - Get support
 
-**3. After traveling & vouchers**
-- Getting your voucher approved
+
+**3. After traveling**
+- Submit your voucher for reimbursements
 
 
 ## Help & support 
@@ -34,6 +36,7 @@ layout: "content"
 - Change a reservation
 - Emergency travel
 - Travel card issues
+
 
 ## Tools & resources
 - DTS
