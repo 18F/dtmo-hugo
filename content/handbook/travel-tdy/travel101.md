@@ -9,7 +9,7 @@ layout: "content"
 **Before booking travel**
 - Get set up in DTS
 - Get your travel card
-- Do your mandatory training in TraX
+- Do mandatory training in TraX
 
 **1. Booking travel**
 - Create an authorization for approval 
@@ -23,6 +23,7 @@ layout: "content"
 
 **2. While traveling**
 - Dining 
+- Get support
 
 **3. After traveling & vouchers**
 - Getting your voucher approved
