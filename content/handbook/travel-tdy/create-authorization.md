@@ -17,7 +17,7 @@ If this is your first time using DTS, it’s been over 30 days since you last va
 ### 3. Enter your details for TDY Location: 
 
 - **Arriving and Departing dates** 
-- **TDY location.** _If you’re TDY to a military installation, choose the military installation, not the closest city. (For example, choose Ft. Lee, VA, not Richmond, VA.)_
+- **TDY location.** If you’re TDY to a military installation, choose the military installation, not the closest city. (For example, choose Ft. Lee, VA, not Richmond, VA.)
 - **Traveling by:** Air, Rail, or Car
 - **Time of day**
 - **Do you need a rental car?**
