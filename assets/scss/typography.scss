@@ -1,6 +1,6 @@
 .usa-prose {
   color: $almost-black;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
 }
 
 h1,
@@ -10,7 +10,9 @@ h4,
 h5,
 h6,
 [class*='heading'] {
-  font-family: 'Public Sans', sans-serif !important;
+  font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol !important;
 }
 
 .usa-logo a,
