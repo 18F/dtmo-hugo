@@ -1,16 +1,18 @@
-td,
-th,
-tr {
-  display: block;
-}
+@media (max-width: 768px) {
+  td,
+  th,
+  tr {
+    display: block;
+  }
 
-thead {
-  display: none;
-}
+  thead {
+    display: none;
+  }
 
-tr {
-  margin-bottom: 1em;
-}
+  tr {
+    margin-bottom: 1em;
+  }
 
-@media (min-width: 64em) {
+  @media (min-width: 64em) {
+  }
 }
