@@ -1,5 +1,4 @@
-document.addEventListener('DOMContentLoaded', function (e) {
-
+document.addEventListener('DOMContentLoaded', function() {
   const tables = document.getElementsByTagName('table');
 
   function createResponsiveTable(tableEl) {
@@ -12,10 +11,11 @@ document.addEventListener('DOMContentLoaded', function (e) {
       cells.map((c, i) => {
         const cellHtml = c.innerHTML;
 
-        c.innerHTML = `<h4>${theadThs[i].innerText}</h4>` + cellHtml;
-      })
-    })
+        c.innerHTML =
+          `<h5><span>${theadThs[i].innerText}</span></h5>` + cellHtml;
+      });
+    });
   }
 
   Array.from(tables).map(t => createResponsiveTable(t));
-})
+});

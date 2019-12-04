@@ -1,3 +1,12 @@
+tr h5 {
+  display: none;
+}
+
+tbody td,
+tbody th {
+  vertical-align: top;
+}
+
 @media (max-width: 768px) {
   td,
   th,
@@ -13,6 +22,15 @@
     margin-bottom: 1em;
   }
 
-  @media (min-width: 64em) {
+  tr h5 {
+    display: block;
+  }
+
+  tr h5 span {
+    background-color: $dark-blue;
+    border-radius: 0.2em;
+    color: white;
+    display: inline-block;
+    padding: 0.2em 0.6em;
   }
 }
