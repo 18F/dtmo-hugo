@@ -7,11 +7,8 @@ draft: false
 
 # <headline> Constructed Travel (using your own vehicle)
 
-<why this page exists> When you go on official travel, the Authorizing Official (AO) will authorize or direct you
-to use a specific transportation mode (i.e., the directed transportation mode) but
-sometimes you’d rather travel using a different transportation mode (i.e., your selected
-transportation mode). For example, the AO directed you to use commercial air, but you
-want to drive your own car.
+<why this page exists> Constructed travel is when you'd prefer to use your own car for official travel instead of what the Authorizing Official (AO) authorized you to use. For example, the AO authorized you to use commercial air, but you
+want to drive your own car to get there instead.
   
 <critical info> You must fill out a Constructed Travel voucher sheet first. (https://www.defensetravel.dod.mil/Docs/CT_Voucher_Instructions.pdf)
   
