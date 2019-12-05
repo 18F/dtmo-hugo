@@ -4,13 +4,13 @@ description: "Create an Authorization"
 layout: "content"
 ---
 
-# Create an Authorization
+# <this is a title> Create an Authorization
 
-### You may need to validate your profile first
+### <this is critical info > You may need to validate your profile first
 
 If this is your first time using DTS, it’s been over 30 days since you last validated your profile, or your Travel Card is about to expire or already expired, you'll see the Profile Validation screen open first. Confirm or update your information, then select Update Personal Information.
 
-### 1. Go to the DTS Dashboard 
+### <this is the body content> 1. Go to the DTS Dashboard 
 
 ### 2. Under My Travel Documents, select Create New Document
 
