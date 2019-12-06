@@ -16,7 +16,7 @@ draft: false
 ### 2. Second step in DTS
 ### 3. Third step in DTS 
   
-<who to contact for help?> To get support on constructed travel issues, contact XYZ. 
+<who to contact for help> To get support on constructed travel issues, contact XYZ. 
 
 ## <policy info> Policy info
 The Joint Travel Regulations (JTR) allows you to use your selected transportation mode, but it also gives the AO the right to limit your transportation reimbursement if your choice is more expensive. Constructed travel lets the AO compare the true costs of the same trip using different transportation modes.
