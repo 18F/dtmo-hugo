@@ -5,11 +5,11 @@ layout: "content"
 draft: false
 ---
 
-# <this is a title> Constructed travel (using your own vehicle)
+# <this is a title> Constructed travel
 
 <define the topic in lay terms> Constructed travel is when you'd prefer to use a different mode of transportation from what your Authorizing Official (AO) has authorized you to use. For example, your AO authorized you to use commercial air, but you'd prefer to drive your own car instead.
   
-<critical timely info> In most cases, you'll need to fill out a [Constructed Travel Worksheet (CTW)](https://www.defensetravel.dod.mil/Docs/CT_Voucher_Instructions.pdf) first. [Here are instructions on how to do that](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf). (One exception is if you're using a personal vehicle and the trip is 400 miles or less.) After filling out the worksheet, attach it to your DTS voucher in the Expenses module, and justify the Constructed Travel pre-audit by confirming that your CTW is attached.
+<critical timely info> In most cases, you'll need to fill out a [Constructed Travel Worksheet (CTW)](https://www.defensetravel.dod.mil/Docs/CT_Voucher_Instructions.pdf) in DTS to attach to your voucher for approval. [Here are instructions for filling out the CTW.](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf) (You don't need to fill out the CTW if you plan to drive your personal vehicle and the one-way trip is 400 miles or less.) 
 
 ## <step-by-step instructions in DTS> How to get your constructed travel approved in DTS
 
