@@ -11,9 +11,10 @@ draft: false
   
 <critical timely info> **In most cases, you'll need to fill out a [Constructed Travel worksheet first](https://www.defensetravel.dod.mil/Docs/CT_Voucher_Instructions.pdf). (One exception is if you're using your personal vehicle and the trip is 400 miles or less.) After filling out the worksheet, attach it to your DTS voucher in the Expenses module, and justify the Constructed Travel pre-audit by confirming that your CTW is attached.**
 
-### <body text> 1. Steps in DTS
-### 2. More steps in DTS
-### 3. More steps
+### <body text> How to get your constructed travel approved in DTS
+### 1.  First step in DTS
+### 2. Second step in DTS
+### 3. Third step in DTS 
   
 <who to contact for help?> To get support on constructed travel issues, contact XYZ. 
 
