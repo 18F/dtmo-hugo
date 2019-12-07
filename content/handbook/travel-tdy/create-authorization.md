@@ -6,7 +6,7 @@ layout: "content"
 
 # <this is a title> Create an Authorization
 
-<define the topic in lay terms> This is what an authorization is. 
+<define the topic in lay terms> An authorization is what you need to get approved before you go on official travel. 
   
 ### <critical info > You may need to validate your profile first
 
@@ -43,4 +43,20 @@ If this is your first time using DTS, it’s been over 30 days since you last va
 - **Conference** (if applicable)
 
 5. Select `Continue` to save your itinerary. 
+
+<maybe add some styling to seperate the core content above from the sections below>
+  
+### <policy info> Policy info
+The Joint Travel Regulations (JTR) allows you to use your selected transportation mode, but it also gives the AO the right to limit your transportation reimbursement if your choice is more expensive. Constructed travel lets the AO compare the true costs of the same trip using different modes of transportation. [JTR, Ch. 2, Par. 020210 Privately Owned Vehicles]
+
+### <related documents> Related documents 
+- [Create an authorization using a trip template (pdf)](https://www.defensetravel.dod.mil/Docs/Trip_Template_Information_Paper.pdf)
+- [Authorizations guide (pdf)](https://www.defensetravel.dod.mil/Docs/DTS_Guide_2_Authorization.pdf)
+
+### <related webpages on DTMO site> Related pages
+- [Here's a related page](URL)
+- [Another related page](URL)
+
+<last updated date> Last updated on X/YY/ZZZZ.
+
 
