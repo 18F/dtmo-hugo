@@ -10,7 +10,7 @@ layout: "content"
   
 ### <critical info > You may need to validate your profile first
 
-If this is your first time using DTS, it’s been over 30 days since you last validated your profile, or your Travel Card is about to expire or already expired, you'll see the Profile Validation screen open first. Confirm or update your information, then select Update Personal Information.
+You may see the `Profile Validation` screen open before you can create an authorization. You will see this screen if: a) this is your first time using DTS, b) it’s been over 30 days since you last validated your profile, or c) your Travel Card is about to expire or already expired. Confirm or update your information, then select `Update Personal Information`.
 
 ## <general overview of how to complete the task> How to create an authorization
 
@@ -58,5 +58,7 @@ The Joint Travel Regulations (JTR) allows you to use your selected transportatio
 - [Another related page](URL)
 
 <last updated date> Last updated on X/YY/ZZZZ.
+  
+<where should tags go> 
 
 
