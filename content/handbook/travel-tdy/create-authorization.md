@@ -12,7 +12,7 @@ layout: "content"
 
 You may see the `Profile Validation` screen open before you can create an authorization. You will see this screen if: a) this is your first time using DTS, b) it’s been over 30 days since you last validated your profile, or c) your Travel Card is about to expire or already expired. Confirm or update your information, then select `Update Personal Information`.
 
-## <general overview of how to complete the task> How to create an authorization
+## <overview of how to complete the task> How to create an authorization
 
 1. Open DTS and under `My Travel Documents` select `Create New Document.`
 
@@ -50,6 +50,7 @@ You may see the `Profile Validation` screen open before you can create an author
 TK policy info.  [JTR, Ch. X, Par. XYZ, Name of Section]
 
 ### <related documents> Related documents 
+- [Create an authorization tri-fold (pdf)](https://www.defensetravel.dod.mil/Docs/Training/Authorization_Tri-fold.pdf)
 - [Create an authorization using a trip template (pdf)](https://www.defensetravel.dod.mil/Docs/Trip_Template_Information_Paper.pdf)
 - [Authorizations guide (pdf)](https://www.defensetravel.dod.mil/Docs/DTS_Guide_2_Authorization.pdf)
 
