@@ -29,8 +29,8 @@ You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ yo
 The Joint Travel Regulations (JTR) allows you to use your selected transportation mode, but it also gives the AO the right to limit your transportation reimbursement if your choice is more expensive. Constructed travel lets the AO compare the true costs of the same trip using different modes of transportation. [JTR, Ch. 2, Par. 020210 Privately Owned Vehicles]
 
 ### <related documents> Related documents 
-- [Intro to Constructed Travel](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf)
-- [Constructed Travel training presentation](https://www.defensetravel.dod.mil/Docs/Training/InstMat/T200_Slides_Constructed_Travel.zip)
+- [Intro to Constructed Travel (pdf)](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf)
+- [Constructed Travel training presentation (zip)](https://www.defensetravel.dod.mil/Docs/Training/InstMat/T200_Slides_Constructed_Travel.zip)
 
 ### <related webpages on DTMO site> Related pages
 - [Here's a related page](URL)
