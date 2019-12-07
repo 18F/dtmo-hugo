@@ -17,7 +17,7 @@ You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ yo
 
 1.  Create an authorization in DTS or open one you've already created. If you've already completed your trip, open your voucher instead of the authorization.
 
-2. Complete the Constructed Travel Worksheet (CTW) to figure out the estimated cost (or the "constructed cost") of your preferred mode of transportation to see how it compares to the cost of your authorized mode of transportation. The CTW can be found in the `Other Auths and Pre Audits` screen. Attach the completed CTW to your authorization (if you haven't traveled yet) or your voucher (if you've already traveled). Here are instructions: 
+2. Complete the Constructed Travel Worksheet (CTW), which can be found in the `Other Auths and Pre Audits` screen. The CTW will help you figure out the estimated cost (or the "constructed cost") of your preferred mode of transportation to see how it compares to the cost of your authorized mode of transportation. Attach the completed CTW to your authorization (if you haven't traveled yet) or your voucher (if you've already traveled). Here are instructions: 
 - [How to complete a CTW for an authorization](https://www.defensetravel.dod.mil/Docs/CT_Authorization_Instructions.pdf)  
 - [How to complete a CTW for a voucher](https://www.defensetravel.dod.mil/cnsttvl/CT_Voucher_Instructions.pdf)  
 
