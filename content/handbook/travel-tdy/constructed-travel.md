@@ -9,7 +9,9 @@ draft: false
 
 <define the topic in lay terms> Constructed travel is when you'd prefer to use a different mode of transportation from what your Authorizing Official (AO) has authorized you to use. For example, your AO authorized you to use commercial air, but you'd prefer to drive your own car instead. 
   
-<critical timely info> You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ you plan to drive your personal vehicle 400 miles or more for a one-way trip.  If you're driving under 400 miles, you don't need to fill out the CTW. 
+### <critical timely info > You may need to fill out a Constructed Travel Worksheet first
+
+You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ you plan to drive your personal vehicle 400 miles or more for a one-way trip.  If you're driving under 400 miles, you don't need to fill out the CTW. 
 
 ## <general overview of how to complete the task> The basic process for constructed travel
 
