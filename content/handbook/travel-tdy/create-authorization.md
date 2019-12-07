@@ -47,7 +47,7 @@ You may see the `Profile Validation` screen open before you can create an author
 <maybe add some styling to seperate the core content above from the sections below>
   
 ### <policy info> Policy info
-The Joint Travel Regulations (JTR) allows you to use your selected transportation mode, but it also gives the AO the right to limit your transportation reimbursement if your choice is more expensive. Constructed travel lets the AO compare the true costs of the same trip using different modes of transportation. [JTR, Ch. 2, Par. 020210 Privately Owned Vehicles]
+TK policy info.  [JTR, Ch. X, Par. XYZ, Name of Section]
 
 ### <related documents> Related documents 
 - [Create an authorization using a trip template (pdf)](https://www.defensetravel.dod.mil/Docs/Trip_Template_Information_Paper.pdf)
