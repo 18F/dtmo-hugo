@@ -13,7 +13,7 @@ draft: false
 
 You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ you plan to drive your personal vehicle 400 miles or more for a one-way trip.  If you're driving under 400 miles, you don't need to fill out the CTW. 
 
-## <general overview of how to complete the task> The basic process for constructed travel
+## <general overview of how to complete the task> How to get your constructed travel approved
 
 1.  Create an authorization in DTS or open one you've already created. If you've already completed your trip, open your voucher instead of the authorization.
 
