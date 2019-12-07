@@ -11,13 +11,15 @@ draft: false
   
 <critical timely info> You'll need to fill out a Constructed Travel Worksheet (CTW) in DTS _only if_ you plan to drive your personal vehicle 400 miles or more for a one-way trip.  If you're driving under 400 miles, you don't need to fill out the CTW. 
 
-## <general overview of how to complete the task> The basic constructed travel process
+## <general overview of how to complete the task> The basic process for constructed travel
 
-### 1.  Create an authorization in DTS or open one you've already created. If you've already completed your trip, open your voucher instead.
+1.  Create an authorization in DTS or open one you've already created. If you've already completed your trip, open your voucher instead of the authorization.
 
-### 2. Complete the CTW to figure out the estimated cost (or the "constructed cost") of your preferred mode of transportation to see how it compares to the cost of your authorized mode of transportation. Attach the CTW to your authoriation (if you haven't travelend yet) or your voucher (if you've already traveled). Here are instructions for how to complete the CTW [for an authorization](https://www.defensetravel.dod.mil/Docs/CT_Authorization_Instructions.pdf) or [for a voucher](https://www.defensetravel.dod.mil/cnsttvl/CT_Voucher_Instructions.pdf).  
+2. Complete the Constructed Travel Worksheet (CTW) to figure out the estimated cost (or the "constructed cost") of your preferred mode of transportation to see how it compares to the cost of your authorized mode of transportation. Attach the CTW to your authorization (if you haven't traveled yet) or your voucher (if you've already traveled). Here are instructions: 
+- [How to complete a CTW for an authorization](https://www.defensetravel.dod.mil/Docs/CT_Authorization_Instructions.pdf)  
+- [How to complete a CTW for a voucher](https://www.defensetravel.dod.mil/cnsttvl/CT_Voucher_Instructions.pdf)  
 
-### 3. The AO will consider your CTW and decide how to authorize your trip. The AO will either a) allow full reimbursement for your preferred transportation mode or b) allow you to take this transportation mode, but limit your reimbursement to the constructed cost of the approved transportation mode.
+3. The AO will consider your CTW and decide how to authorize your trip. The AO will either a) allow full reimbursement for your preferred transportation mode or b) allow you to take this transportation mode, but limit your reimbursement to the constructed cost of the approved transportation mode.
 
 <maybe add some styling to seperate the core content above from the sections below>
   
@@ -25,7 +27,7 @@ draft: false
 The Joint Travel Regulations (JTR) allows you to use your selected transportation mode, but it also gives the AO the right to limit your transportation reimbursement if your choice is more expensive. Constructed travel lets the AO compare the true costs of the same trip using different modes of transportation. [JTR, Ch. 2, Par. 020210 Privately Owned Vehicles]
 
 ### <related documents> Related documents 
-- [Intro to constructed travel](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf)
+- [Intro to Constructed Travel](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf)
 - [Constructed Travel training presentation](https://www.defensetravel.dod.mil/Docs/Training/InstMat/T200_Slides_Constructed_Travel.zip)
 
 ### <related webpages on DTMO site> Related pages
