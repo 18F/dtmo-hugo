@@ -44,6 +44,8 @@ You may see the `Profile Validation` screen open before you can create an author
 
 5. Select `Continue` to save your itinerary. 
 
+More detailed instructions on how to create an authoriation (pdf)(https://www.defensetravel.dod.mil/Docs/DTS_Guide_2_Authorization.pdf)
+
 <maybe add some styling to seperate the core content above from the sections below>
   
 ### <policy info> Policy info
