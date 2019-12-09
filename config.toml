@@ -37,7 +37,7 @@ sectionPagesMenu = "main"
     [[menu.main]]
     	identifier = "travel-tdy"
     	name = "TDY Travel"
-    	url = "/handbook/travel-tdy"
+    	url = "/handbook/travel-tdy/travel101"
     	parent ="handbook"
     	weight = 102
 
