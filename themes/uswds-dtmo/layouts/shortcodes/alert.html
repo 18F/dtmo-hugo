@@ -1,0 +1,11 @@
+<!--
+  type: info, success, warning, error, 
+-->
+<div class="usa-alert usa-alert--{{ .Get "type" }}">
+  <div class="usa-alert__body">
+    <h3 class="usa-alert__heading">{{ .Get "heading" }}</h3>
+    <p class="usa-alert__text">
+      {{ .Inner | markdownify }}
+    </p>
+  </div>
+</div>
