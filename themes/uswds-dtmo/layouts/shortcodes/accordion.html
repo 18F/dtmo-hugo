@@ -1,0 +1,8 @@
+{{ $headingLevel  := .Get "headingLevel" }}
+{{ $multiselect   := .Get "multiselect" }}
+{{ $bordered      := .Get "bordered" }}
+
+<div class="usa-accordion {{ if eq $bordered "true"}}usa-accordion--bordered{{end}}"
+  {{ if eq $multiselect "true" }}aria-multiselectable="true"{{end}}>
+  {{ .Inner }}
+</div>

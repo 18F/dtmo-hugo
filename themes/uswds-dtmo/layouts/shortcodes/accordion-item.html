@@ -1,0 +1,12 @@
+{{ $headingLevel := .Parent.Get "headingLevel" }}
+{{ $content := .Inner | markdownify }}
+{{ $id := md5 $content }}
+
+<h{{ $headingLevel }} class="usa-accordion__heading">
+  <button class="usa-accordion__button" aria-expanded="false" aria-controls="{{ $id }}">
+    {{ .Get "headingText" }}
+  </button>
+</h{{ $headingLevel}}>
+<div id="{{ $id }}" class="usa-accordion__content usa-prose">
+  {{ $content }}
+</div>
