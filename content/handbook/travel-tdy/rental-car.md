@@ -13,27 +13,32 @@ draft: false
 
 ## <body content> How to book a rental car
 
-1. If you already indicated that you need a rental car in your itinerary, DTS will automatically search for available carsand display the results. 
-If you need to add a rental car to your existing itinerary, select `Add to Trip1 > 1Addnew rental car1 on the 1Review Reservation Selections1 screen page.
-You can access existing rental car reservations from the `Progress Bar`. 
+1. DTS will automatically search for available cars and display the results if you indicated that you need a rental car in your itinerary. If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
 
-2. DTS will list available rental cars from least expensiveto most expensive. If you need a one-way rental (TK explain what that is), select 'Advanced Options' and search for a new list of available vehicles. 
+2. DTS will list available rental cars from least expensive to most expensive. 
 
-3. Click 'Select Car' to choose a vehicle.
+If you need a one-way rental (TK explain what that is), select `Advanced Options` and search for a new list of available vehicles. 
+
+3. Click `Select Car` to choose your rental car.
 
 <maybe add some styling to seperate the core content above from the sections below>
   
-### <policy info> The Joint Travel Regulations (JTR) authorizes reimbursement of rental vehicle expenses and fees. A compact vehicle is the standard size for official travel, but the Authorizing Official may authorize or approve a larger vehicle if the traveler meets certain requirements. [JTR, Para. 020209]
+### <policy info> Policy info
+
+The Joint Travel Regulations (JTR) authorizes reimbursement of rental vehicle expenses and fees. A compact vehicle is the standard size for official travel, but the Authorizing Official may authorize or approve a larger vehicle if the traveler meets certain requirements. [JTR, Para. 020209]
 
 ### <related documents> Related documents 
+  
 - [Intro to Constructed Travel (pdf)](https://www.defensetravel.dod.mil/Docs/Constructed_Travel_Information_Paper.pdf)
 - [Constructed Travel training presentation (zip)](https://www.defensetravel.dod.mil/Docs/Training/InstMat/T200_Slides_Constructed_Travel.zip)
 
 ### <related webpages on DTMO site> Related pages
-- [Here's a related page](URL)
-- [Another related page](URL)
+  
+- [Rental Truck Program](URL)
+- [Constructed travel](URL)
 
-Related training
+### <related training> Related training
+
 - ["Rental Car Program," formerly known as "Rental Car 101" in TRAX] (www.defensetravel.dod.mil/Passport)
 
 <last updated date> Last updated on X/YY/ZZZZ.
