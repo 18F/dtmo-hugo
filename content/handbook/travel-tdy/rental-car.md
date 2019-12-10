@@ -13,9 +13,7 @@ draft: false
 
 ## <body content> How to book a rental car
 
-1. DTS will automatically search for available cars and display the results from least to most expensive if you indicated that you need a rental car in your itinerary. 
-
-If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
+1. DTS will automatically search for available cars and display the results from least to most expensive if you indicated that you need a rental car in your itinerary. If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
 
 2. Click `Select Car` to choose your rental car.
 
