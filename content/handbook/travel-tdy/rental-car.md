@@ -13,13 +13,13 @@ draft: false
 
 ## <body content> How to book a rental car
 
-1. DTS will automatically search for available cars and display the results if you indicated that you need a rental car in your itinerary. If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
+1. DTS will automatically search for available cars and display the results from least to most expensive if you indicated that you need a rental car in your itinerary. 
 
-2. DTS will list available rental cars from least expensive to most expensive. 
+If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
 
-If you need a one-way rental (TK explain what that is), select `Advanced Options` and search for a new list of available vehicles. 
+2. Click `Select Car` to choose your rental car.
 
-3. Click `Select Car` to choose your rental car.
+If you need a one-way rental (TK explain what that is), select `Advanced Options` and search for a new list of available rental cars. 
 
 <maybe add some styling to seperate the core content above from the sections below>
   
@@ -39,6 +39,6 @@ The Joint Travel Regulations (JTR) authorizes reimbursement of rental vehicle ex
 
 ### <related training> Related training
 
-- ["Rental Car Program," formerly known as "Rental Car 101" in TRAX] (www.defensetravel.dod.mil/Passport)
+- ["Rental Car Program" aka "Rental Car 101" in TRAX] (www.defensetravel.dod.mil/Passport)
 
 <last updated date> Last updated on X/YY/ZZZZ.
