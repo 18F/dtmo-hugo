@@ -8,12 +8,15 @@ draft: false
 # <this is a title> Rental cars
 
 <define the topic in lay terms> Federal employees and servicemembers are eligible to rent cars, passenger vans, and small pick-up trucks at reduced rates and with special benefits while on official travel. Make sure you book at the government rate from an approved rental car company in DTS, and look for the $5 daily GARS fee on your rental car contract to confirm you're receiving the insurance benefits as part of the U.S. Government Rental Car Program. 
-### <critical timely info > If you get into an accident, here's what you should do...
+  
+### <critical timely info > If you get into an accident
+  
+Here's what you should do if you get into an accident. 
 
 
 ## <body content> How to book a rental car
 
-1. DTS will automatically search for available cars and display the results from least to most expensive if you indicated that you need a rental car in your itinerary. If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
+1. DTS will automatically search for available cars and display the results if you indicated that you need a rental car in your itinerary. If you need to add a rental car to your existing itinerary, select `Add to Trip > Add new rental car` on the `Review Reservation Selections` screen page. You can access existing rental car reservations from the `Progress Bar`. 
 
 2. Click `Select Car` to choose your rental car.
 
