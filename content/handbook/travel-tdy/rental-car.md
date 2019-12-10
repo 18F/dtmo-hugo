@@ -11,7 +11,7 @@ draft: false
   
 ### <critical timely info > If you get into an accident
   
-Here's what you should do if you get into an accident. 
+Here's what you should do if you get into an accident... 
 
 
 ## <body content> How to book a rental car
@@ -36,7 +36,7 @@ The Joint Travel Regulations (JTR) authorizes reimbursement of rental vehicle ex
 ### <related webpages on DTMO site> Related pages
   
 - [Rental Truck Program](URL)
-- [Constructed travel](URL)
+- [Constructed Travel (Traveler's Handbook page)](URL)
 
 ### <related training> Related training
 
