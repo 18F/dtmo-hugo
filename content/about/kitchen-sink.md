@@ -11,7 +11,7 @@ The purpose of this page is to demonstrate the implementation of various USWDS c
 
 ## Accordion
 
-An accordion is a list of headers that hide or reveal additional content when selected. [[\[USWDS documentation\]](https://designsystem.digital.gov/components/accordion/)
+An accordion is a list of headers that hide or reveal additional content when selected. [\[USWDS documentation\]](https://designsystem.digital.gov/components/accordion/)
 
 ### Options
 
@@ -60,7 +60,7 @@ The `accordion-item` shortcode takes one attribute:
 ### Options
 
 * `type` can be one of `info`, `success`, `warning`, or `error`
-* `heading` specifies the bold text at the top of the alert (optional).
+* `heading` specifies the bold text at the top of the alert. {{<tag text="optional">}}
 * `icon="false"` will omit the icon.
 
 ### Sample Usage
@@ -74,3 +74,17 @@ There's a spider on your shoulder
 {{% alert heading="Look out!" type="warning" %}}
 There's a spider on your shoulder
 {{% /alert %}}
+
+## Tag
+
+### Options
+
+* `big=true` makes the tag a little bigger.
+
+### Sample usage
+
+{{< highlight go >}}
+{{</* tag text="New!" big="true" */>}}
+{{< /highlight >}}
+
+{{< tag text="New!" big="true">}}

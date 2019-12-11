@@ -1,0 +1,3 @@
+{{ $big := .Get "big" }}
+
+<span class="usa-tag{{ if eq $big "true" }} usa-tag--big{{ end }}">{{ .Get "text" }}</span>
