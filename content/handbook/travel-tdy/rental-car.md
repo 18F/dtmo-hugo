@@ -37,6 +37,7 @@ The Joint Travel Regulations (JTR) authorizes reimbursement of rental vehicle ex
   
 - [Rental Truck Program](URL)
 - [Constructed Travel (Traveler's Handbook page)](URL)
+- [Mileage Rates] (URL) 
 
 ### <related training> Related training
 
