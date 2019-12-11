@@ -1,7 +1,10 @@
 <!--
   type: info, success, warning, error, 
 -->
-<div class="usa-alert usa-alert--{{ .Get "type" }}">
+
+{{ $icon := .Get "icon" }}
+
+<div class="usa-alert usa-alert--{{ .Get "type" }} {{ if eq $icon "false" }}usa-alert--no-icon{{end}}">
   <div class="usa-alert__body">
     <h3 class="usa-alert__heading">{{ .Get "heading" }}</h3>
     <p class="usa-alert__text">
