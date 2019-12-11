@@ -18,7 +18,7 @@ An accordion is a list of headers that hide or reveal additional content when se
 The following options apply to the `accordion` shortcode:
 
 * `headingLevel` takes a value between 1 and 6 and should be used to make sure that the generated HTML has the right heading level i.e. `headingLevel=3` creates `<h3>` tags.
-* `multiselect=true` will create an accordion that allows multiple sections to be open at the same time. 
+* `multiselect=true` will create an accordion that allows multiple sections to be open at the same time.
 * `bordered="true"` adds borders to the content sections when they are unfolded.
 
 The `accordion-item` shortcode takes one attribute:
@@ -30,11 +30,11 @@ The `accordion-item` shortcode takes one attribute:
 {{< highlight go >}}
 {{</* accordion headingLevel="3" bordered="true" multiselect="true" */>}}
     {{%/* accordion-item headingText="First Amendment" */%}}
-    Congress shall make no law respecting an establishment of religion, 
-    or prohibiting the free exercise thereof; or abridging the freedom of speech, 
-    or of the press; or the right of the people peaceably to assemble, 
-    and to petition the Government for a 
-    redress of grievances.{{%/* /accordion-item */%}}
+    Congress shall make no law respecting an establishment of religion,
+    or prohibiting the free exercise thereof; or abridging the freedom of speech,
+    or of the press; or the right of the people peaceably to assemble,
+    and to petition the Government for a
+    redress of grievances.{{%/* /accordion-item */%}}jk
 {{</* /accordion */>}}
 {{< /highlight >}}
 
