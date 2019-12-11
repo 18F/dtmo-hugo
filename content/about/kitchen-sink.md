@@ -11,7 +11,7 @@ The purpose of this page is to demonstrate the implementation of various USWDS c
 
 ## Accordion
 
-An accordion is a list of headers that hide or reveal additional content when selected. [\[USWDS documentation\]](https://designsystem.digital.gov/components/accordion/)
+An accordion is a list of headers that hide or reveal additional content when selected. [[\[USWDS documentation\]](https://designsystem.digital.gov/components/accordion/)
 
 ### Options
 
@@ -52,3 +52,25 @@ The `accordion-item` shortcode takes one attribute:
   {{% accordion-item headingText="Third Amendment" %}}No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
   {{% /accordion-item %}}
 {{< /accordion >}}
+
+## Alert
+
+[USWDS documentation](https://designsystem.digital.gov/components/alert/)
+
+### Options
+
+* `type` can be one of `info`, `success`, `warning`, or `error`
+* `heading` specifies the bold text at the top of the alert (optional).
+* `icon="false"` will omit the icon.
+
+### Sample Usage
+
+{{< highlight go >}}
+{{%/* alert heading="Look out!" type="warning" */%}}
+There's a spider on your shoulder
+{{%/* /alert */%}}
+{{< /highlight >}}
+
+{{% alert heading="Look out!" type="warning" %}}
+There's a spider on your shoulder
+{{% /alert %}}
