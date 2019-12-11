@@ -11,6 +11,8 @@ The purpose of this page is to demonstrate the implementation of various USWDS c
 
 ## Accordion
 
+An accordion is a list of headers that hide or reveal additional content when selected. [\[USWDS documentation\]](https://designsystem.digital.gov/components/accordion/)
+
 ### Options
 
 The following options apply to the `accordion` shortcode:
