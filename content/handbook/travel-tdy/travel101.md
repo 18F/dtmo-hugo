@@ -6,14 +6,16 @@ layout: "content"
 
 # TDY Travel 101
 
+Temporary Duty Travel (TDY) is all official travel between 1-180 days, though a typical TDY trip is around a week. 
+
+
 ## 1. Booking travel
 
 - [Create an authorization](../create-authorization/)
+- Estimate your expenses  
 - Book a flight, train, or rental car
 - Book lodging
-- Estimate your expenses  
 - Combining official & personal travel
-- Frequent Traveler Programs 
 - Review and submit your authorization
 
 
@@ -25,7 +27,7 @@ layout: "content"
 
 ## 3. After traveling
 
-- Submit your voucher for reimbursements
+- Submit your voucher and upload receipts
 
 
 ## Help & support 
