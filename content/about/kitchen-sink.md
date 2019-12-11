@@ -9,6 +9,33 @@ lastmod: 2019-12-09
 
 The purpose of this page is to demonstrate the implementation of various USWDS components as Hugo shortcodes.
 
+## Accordion
+
+### Options
+
+The following options apply to the `accordion` shortcode:
+
+* `headingLevel` takes a value between 1 and 6 and should be used to make sure that the generated HTML has the right heading level i.e. `headingLevel=3` creates `<h3>` tags.
+* `multiselect=true` will create an accordion that allows multiple sections to be open at the same time. 
+* `bordered="true"` adds borders to the content sections when they are unfolded.
+
+The `accordion-item` shortcode takes one attribute:
+
+* `headingText` specifies the text to appear in the accordion headings. This text will always be visible.
+
+### Sample usage
+
+{{< highlight go >}}
+{{</* accordion headingLevel="3" bordered="true" multiselect="true" */>}}
+    {{%/* accordion-item headingText="First Amendment" */%}}
+    Congress shall make no law respecting an establishment of religion, 
+    or prohibiting the free exercise thereof; or abridging the freedom of speech, 
+    or of the press; or the right of the people peaceably to assemble, 
+    and to petition the Government for a 
+    redress of grievances.{{%/* /accordion-item */%}}
+{{</* /accordion */>}}
+{{< /highlight >}}
+
 {{< accordion headingLevel="3" bordered="true" multiselect="true">}}
   {{% accordion-item headingText="First Amendment" %}}
   Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.{{% /accordion-item %}}
