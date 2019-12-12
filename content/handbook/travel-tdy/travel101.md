@@ -6,7 +6,7 @@ layout: "content"
 
 # TDY Travel 101
 
-Temporary Duty Travel (TDY) is any official (domestic?) travel that lasts between 1-180 days. 
+Temporary Duty Travel (TDY) is any official travel that lasts between 1-180 days. This includes most of your typical short-term travel. 
 
 
 ## 1. Booking travel
