@@ -2,7 +2,6 @@
 title: 'Handbook'
 description: 'Create an Authorization'
 lastmod: 2019-12-09
-layout: 'handbook'
 ---
 
 An authorization is what you need to get approved in DTS (Defense Travel System) before you go on official travel.
