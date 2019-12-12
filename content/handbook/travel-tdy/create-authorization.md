@@ -5,7 +5,7 @@ lastmod: 2019-12-09
 layout: "content"
 ---
 
-# Create and Authorization
+# Create an Authorization
 
 An authorization is what you need to get approved in DTS (Defense Travel System) before you go on official travel.
 
