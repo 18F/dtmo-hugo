@@ -34,7 +34,7 @@ The `accordion-item` shortcode takes one attribute:
     or prohibiting the free exercise thereof; or abridging the freedom of speech,
     or of the press; or the right of the people peaceably to assemble,
     and to petition the Government for a
-    redress of grievances.{{%/* /accordion-item */%}}jk
+    redress of grievances.{{%/* /accordion-item */%}}
 {{</* /accordion */>}}
 {{< /highlight >}}
 
