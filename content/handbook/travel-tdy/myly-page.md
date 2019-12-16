@@ -9,7 +9,7 @@ layout: "content"
 <define the topic in lay terms>  I'm a brief definition of the thing we're talking about here.
   
 ### <critical timely info > This is the critical timely info 
-  2 sentences on the critical timely info travelers need to know. 
+  2 or so sentences on the critical timely info travelers need to know. 
 
 
 ## <body content> Instructions for how to complete the task
