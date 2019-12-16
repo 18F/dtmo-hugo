@@ -4,7 +4,7 @@ description: "XYZ"
 layout: "content"
 ---
 
-# <this is a title> Changing your reservation
+# <this is a title> Myly's page
 
 <define the topic in lay terms>  
   
@@ -12,7 +12,7 @@ layout: "content"
 =
 
 
-## <body content> How to change your reservation
+## <body content> How to do a thing
 
   
 ### <policy info> Policy info
