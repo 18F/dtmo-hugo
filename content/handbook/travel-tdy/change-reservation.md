@@ -2,7 +2,6 @@
 title: "Handbook"
 description: "Change your reservation"
 layout: "content"
-draft: false
 ---
 
 # <this is a title> Changing your reservation
