@@ -1,8 +1,7 @@
 ---
-title: "Handbook"
-description: "Constructed travel"
+title: "Constructed Travel"
+description: "Combining official & personal travel"
 layout: "content"
-draft: false
 ---
 
 # <this is a title> Constructed travel

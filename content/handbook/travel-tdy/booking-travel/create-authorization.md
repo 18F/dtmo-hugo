@@ -1,5 +1,5 @@
 ---
-title: 'Handbook'
+title: 'Create an Authorization'
 description: 'Create an Authorization'
 lastmod: 2019-12-09
 layout: "content"
@@ -9,9 +9,7 @@ layout: "content"
 
 An authorization is what you need to get approved in DTS (Defense Travel System) before you go on official travel.
 
-{{% alert heading="You may need to validate your profile first" type="warning" %}}
-You may see the `Profile Validation` screen open in DTS before you can create an authorization if: a) this is your first time using DTS, b) it’s been over 30 days since you last validated your profile, or c) your Travel Card is about to expire or already expired. Confirm or update your information, then select `Update Personal Information`.
-{{% /alert %}}
+{{% alert heading="You may need to validate your profile first" type="warning" %}}You may see the `Profile Validation` screen open in DTS before you can create an authorization if: a) this is your first time using DTS, b) it’s been over 30 days since you last validated your profile, or c) your Travel Card is about to expire or already expired. Confirm or update your information, then select `Update Personal Information`.{{% /alert %}}
 
 ## How to create an authorization
 
