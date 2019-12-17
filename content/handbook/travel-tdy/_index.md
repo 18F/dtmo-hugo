@@ -12,7 +12,7 @@ Temporary Duty Travel (TDY) is any official travel that lasts between 1-180 days
 
 ## 1. Booking travel
 
-- [Create an authorization](create-authorization/)
+- [Create an authorization](booking-travel/create-authorization/)
 - Estimate your expenses  
 - Book a flight, train, or rental car
 - Book lodging
