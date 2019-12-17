@@ -8,15 +8,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="grid-row grid-gap">
       <aside class="usa-layout-docs__sidenav desktop:grid-col-3">
         <nav aria-label="Secondary navigation">
-          {{ $currentPage := . }}
+          {{ $currentPage := .Page }}
+          {{ $topLevelSection := .Page.FirstSection }}
           <ul class="usa-sidenav">
-            {{ range .FirstSection.Pages }}
+            {{ range $topLevelSection.Pages }}
               <li class="usa-sidenav__item">
                 <a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{end}}>{{ .Title }}</a> 
                 {{ if .IsAncestor $currentPage }}
                   <ul class="usa-sidenav__sublist">
-                    {{ range $currentPage.Pages }}
-                    <li class="usa-sidenav__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ range .Sections }}
+                      <li class="usa-sidenav__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                      <ul class="usa-sidenav__sublist">
+                        {{ range .Pages }}
+                          <li class="usa-sidenav__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                      </ul>
                     {{ end }}
                   </ul>
                 {{ end }}
