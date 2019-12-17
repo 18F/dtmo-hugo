@@ -11,9 +11,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           {{ $currentPage := . }}
           <ul class="usa-sidenav">
             {{ range .FirstSection.Pages }}
-              {{ $sectionIndex := . }}
-              <li class="usa-sidenav__item{{ if .IsAncestor $currentPage }} usa-current{{end}}">
-                <a href="{{ .Permalink }}">{{ .Title }}</a> 
+              <li class="usa-sidenav__item">
+                <a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{end}}>{{ .Title }}</a> 
+                {{ if .IsAncestor $currentPage }}
+                  <ul class="usa-sidenav__sublist">
+                    {{ range $currentPage.Pages }}
+                    <li class="usa-sidenav__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
               </li>
             {{ end }}
           </ul>
