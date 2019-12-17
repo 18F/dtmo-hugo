@@ -10,9 +10,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <nav aria-label="Secondary navigation">
 
           <ul class="usa-sidenav">
-          {{ range .Site.Sections }}
-          <li class="usa-sidenav__item {{ if .CurrentSection }} usa-current {{ end }}">
-            {{ .Section }}
+            {{ range .FirstSection.Pages }}
+            <li class="usa-sidenav__item">
               <a href="{{ .Permalink }}">{{ .Title }}</a> 
             </li>
           {{ end }}

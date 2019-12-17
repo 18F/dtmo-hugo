@@ -1,7 +1,8 @@
 ---
-title: "Handbook"
+title: "Temporary Duty (TDY) Travel 101"
 description: "TDY Travel 101"
 layout: "content"
+weight: 200
 ---
 
 # TDY Travel 101

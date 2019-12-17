@@ -1,5 +1,5 @@
 ---
-title: Get Support
+title: Getting Support
 layout: content
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "Handbook — New Employees"
+title: "Before Your First Trip"
 description: "Getting started with DOD travel"
 layout: "content"
 draft: false
+weight: 100
 ---
 
 # Getting started with DOD Travel
