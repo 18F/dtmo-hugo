@@ -18,3 +18,17 @@
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+
+.usa-sidenav a,
+.usa-sidenav a:visited,
+.usa-sidenav a:hover {
+  color: $almost-black;
+}
+
+.usa-sidenav .usa-current {
+  color: $darker-blue;
+
+  &::after {
+    background-color: $darker-blue;
+  }
+}
