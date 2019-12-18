@@ -1,8 +1,8 @@
-
+        {{ $currentPage := . }}
         <ul class="usa-nav__primary usa-accordion">
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
-            <li class="usa-nav__primary-item">
+          <li class="usa-nav__primary-item {{ if $currentPage.HasMenuCurrent "main" . }}usa-current{{ end }}">
               <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-nav-section-{{ .Identifier }}"><span>{{ .Name }}</span></button>
               <ul id="extended-nav-section-{{ .Identifier }}" class="usa-nav__submenu">
                 {{ range .Children }}

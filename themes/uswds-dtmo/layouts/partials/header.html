@@ -1,4 +1,4 @@
-{{ partial "usa-banner.html" .Site }}
+{{ partial "usa-banner.html" . }}
 
   <div class="usa-overlay"></div>
 
@@ -13,7 +13,7 @@
     <nav aria-label="Primary navigation" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close"><img src="/assets/img/close.svg" alt="close"></button>
-        {{ partial "primary-nav" .Site }}
+        {{ partial "primary-nav" . }}
         <div class="usa-nav__secondary">
           <ul class="usa-nav__secondary-links">
             <li class="usa-nav__secondary-item">
@@ -47,7 +47,7 @@
       </div>
       <nav aria-label="Primary navigation" class="usa-nav">
       <button class="usa-nav__close"><img src="/assets/img/close.svg" alt="close"></button>
-      {{ partial "primary-nav" .Site }}
+      {{ partial "primary-nav" . }}
         <form class="usa-search usa-search--small ">
         <div role="search">
           <label class="usa-sr-only" for="basic-search-field-small">Search small</label>
