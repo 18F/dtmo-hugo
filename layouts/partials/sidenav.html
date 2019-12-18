@@ -1,0 +1,27 @@
+      <aside class="usa-layout-docs__sidenav desktop:grid-col-3">
+        <nav aria-label="Secondary navigation">
+          {{ $currentPage := .Page }}
+          {{ $topLevelSection := .Page.FirstSection }}
+          <ul class="usa-sidenav">
+            {{ range $topLevelSection.Pages }}
+              <li class="usa-sidenav__item">
+                <a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{end}}>{{ .Title }}</a> 
+                {{ if .IsAncestor $currentPage }}
+                  <ul class="usa-sidenav__sublist">
+                    {{ range .Sections }}
+                    <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
+                    {{ if .InSection $currentPage }}
+                      <ul class="usa-sidenav__sublist">
+                        {{ range .Pages }}
+                          <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if eq .Page $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
+                        {{ end }}
+                      </ul>
+                      {{ end }}
+                    {{ end }}
+                  </ul>
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        </nav>
+      </aside>
