@@ -17,15 +17,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 {{ if .IsAncestor $currentPage }}
                   <ul class="usa-sidenav__sublist">
                     {{ range .Sections }}
-                    {{ $subSection := . }}
                     <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
+                    {{ if .InSection $currentPage }}
                       <ul class="usa-sidenav__sublist">
                         {{ range .Pages }}
-                          {{ if eq .CurrentSection $subSection }}
                           <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if eq .Page $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
-                          {{ end }}
                         {{ end }}
                       </ul>
+                      {{ end }}
                     {{ end }}
                   </ul>
                 {{ end }}
