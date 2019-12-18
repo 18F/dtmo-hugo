@@ -37,21 +37,21 @@ sectionPagesMenu = "main"
     [[menu.main]]
     	identifier = "travel-tdy"
     	name = "TDY Travel"
-    	url = "/handbook/travel-tdy/travel101"
+    	url = "/handbook/travel-tdy"
     	parent ="handbook"
     	weight = 102
 
     [[menu.main]]
     	identifier = "travel-international"
     	name = "International Travel"
-    	url = "/handbook/travel-international"
+    	url = "/handbook/international-travel"
     	parent ="handbook"
     	weight = 103
 
     [[menu.main]]
     	identifier = "moving-living-abroad"
     	name = "Moving, Permanent Change of Station, and Living Abroad"
-    	url = "/handbook/moving-living-abroad"
+    	url = "/handbook/moving"
     	parent ="handbook"
     	weight = 104
 
@@ -59,13 +59,13 @@ sectionPagesMenu = "main"
       identifier = "travel-administrators"
       name = "Travel Administrators"
       parent = "handbook"
-      url = "/support/travel-administrators/"
+      url = "/handbook/travel-admins"
       weight = 106
 
   [[menu.main]]
     name = "Travel Administrators Reference"
     parent = "handbook"
-    url = "/support/travel-administrators/reference-materials/"
+    url = "/support/travel-admins/reference-materials/"
     weight = 107
 
   [[menu.main]]
