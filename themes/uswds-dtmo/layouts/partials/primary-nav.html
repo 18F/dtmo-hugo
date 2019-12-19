@@ -11,8 +11,7 @@
               </ul>
             </li>
             {{ else }}
-            {{/* TODO: .URL -> .Permalink when there's actually content in there */}}
-            <li class="usa-nav__primary-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+              <li class="usa-nav__primary-item {{ if or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .) }}usa-current{{ end }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
             {{end}}
           {{ end }}
         </ul>
