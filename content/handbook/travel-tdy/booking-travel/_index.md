@@ -1,4 +1,4 @@
 ---
 title: Booking Travel
-layout: content
+layout: landingPage
 ---

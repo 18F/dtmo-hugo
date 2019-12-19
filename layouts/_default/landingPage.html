@@ -1,0 +1,30 @@
+{{ define "main" }}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ML8ZQ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<main class="usa-layout-docs usa-section" id="main-content">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      {{ partial "sidenav.html" . }}
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+          <p>{{ .Description }}</p>
+        {{ end }}
+
+        {{ $currentPage := .Page }}
+        {{ $topLevelSection := .Page.FirstSection }}
+
+        <div class="dtmo-page-list">
+          {{ range .Pages }}
+            <div class="dtmo-page-list__item">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Description }} - {{ .Description }}{{end}}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}
