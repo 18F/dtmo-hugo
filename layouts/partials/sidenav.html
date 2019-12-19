@@ -10,7 +10,7 @@
                   <ul class="usa-sidenav__sublist">
                     {{ range .Sections }}
                     <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if .IsAncestor $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
-                    {{ if .InSection $currentPage }}
+                    {{ if or (.InSection $currentPage) (.IsAncestor $currentPage) }}
                       <ul class="usa-sidenav__sublist">
                         {{ range .Pages }}
                           <li class="usa-sidenav__item"><a href="{{ .Permalink }}" {{ if eq .Page $currentPage }}class="usa-current"{{ end }}>{{ .Title }}</a></li>
