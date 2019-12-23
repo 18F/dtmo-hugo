@@ -8,6 +8,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="grid-row grid-gap">
       {{ partial "sidenav.html" . }}
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        {{ partial "breadcrumb.html" . }}
         {{ .Content }}
       </div>
     </div>

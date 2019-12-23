@@ -1,0 +1,18 @@
+<nav  class="nav navbar-nav" aria-label="breadcrumb">
+  <ol>
+    {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+  </ol>
+</nav>
+
+{{ define "breadcrumbnav" }}
+  {{ if .p1.Parent }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+    {{ else if not .p1.IsHome }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+  {{ end }}
+  {{ if not (eq .p1 .p1.Site.Home) }}
+  <li>
+    <a href="{{ .p1.Permalink }}" {{ if eq .p1 .p2 }} class="usa-current" aria-current="page" {{ end }}>{{ .p1.Title }}</a>
+  </li>
+  {{ end }}
+{{ end }}
