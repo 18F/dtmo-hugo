@@ -1,4 +1,4 @@
-<nav  class="nav navbar-nav" aria-label="breadcrumb">
+<nav aria-label="breadcrumb">
   <ol>
     {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
   </ol>
@@ -12,7 +12,11 @@
   {{ end }}
   {{ if not (eq .p1 .p1.Site.Home) }}
   <li>
-    <a href="{{ .p1.Permalink }}" {{ if eq .p1 .p2 }} class="usa-current" aria-current="page" {{ end }}>{{ .p1.Title }}</a>
+    {{ if eq .p1 .p2 }} 
+    {{ .p1.Title }}
+    {{ else }}
+      <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+    {{ end }}
   </li>
   {{ end }}
 {{ end }}
