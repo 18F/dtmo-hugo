@@ -32,3 +32,31 @@
     background-color: $darker-blue;
   }
 }
+
+nav[aria-label='breadcrumb'] {
+  font-family: $sans-serif;
+  font-size: 0.93rem;
+
+  ol {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+
+    &:not(:last-child)::after {
+      content: '>';
+      padding: 0 0.2em;
+    }
+  }
+
+  a {
+    color: $darker-blue;
+  }
+
+  & + h1 {
+    margin-top: 1em;
+  }
+}
