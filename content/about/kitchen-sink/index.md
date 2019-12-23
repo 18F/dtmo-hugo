@@ -93,7 +93,7 @@ There's a spider on your shoulder
 
 Just use the id for the video as the single argument to this tag. The id is the part of the video url that comes after `v=` (i.e. if the URL for the video is `https://www.youtube.com/watch?v=PhhC_N6Bm_s`, the id is `PhhC_N6Bm_s`)
 
-{{< highlight go >}}
+{{<highlight go>}}
 {{</* youtube PhhC_N6Bm_s */>}}
 {{< /highlight >}}
 
@@ -103,29 +103,8 @@ Just use the id for the video as the single argument to this tag. The id is the 
 
 Vimeo videos work the same way, but the id for the video is just the last part fo the URL (`https://vimeo.com/57350121` `57350121`)
 
-{{< highlight go >}}
+{{<highlight go>}}
 {{</* vimeo 57350121 */>}}
 {{< /highlight >}}
 
 {{< vimeo 57350121>}}
-
-## Figure
-
-Markdown provides syntax for including images, but this shortcode provides an easy way to use the semantic `<figure>` element.
-
-### Options
-
-At a minimum, the `figure` shortcode should have the following attributes:
-
-* `src` is just the path to the image file
-* `alt` specifies the alt text for the image that will appear either if the image cannot load or if the browser is using assistive technology.
-* `caption` will place a textual caption below the image
-* This shortcode is built into Hugo, so you can find several other options in [Hugo's documentation](https://gohugo.io/content-management/shortcodes/#figure).
-
-### Sample Usage
-
-{{< highlight go >}}
-{{</* figure src="pup-on-a-pillow.jpg" alt="a cute dog rests its head on a pillow" */>}}
-{{< /highlight >}}
-
-{{< figure src="pup-on-a-pillow.jpg" alt="a cute dog rests its head on a pillow">}}
