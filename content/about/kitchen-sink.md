@@ -88,3 +88,23 @@ There's a spider on your shoulder
 {{< /highlight >}}
 
 {{< tag text="New!" big="true">}}
+
+## YouTube
+
+Just use the id for the video as the single argument to this tag. The id is the part of the video url that comes after `v=` (i.e. if the URL for the video is `https://www.youtube.com/watch?v=PhhC_N6Bm_s`, the id is `PhhC_N6Bm_s`)
+
+{{<highlight go>}}
+{{</* youtube PhhC_N6Bm_s */>}}
+{{< /highlight >}}
+
+{{< youtube PhhC_N6Bm_s>}}
+
+## Vimeo
+
+Vimeo videos work the same way, but the id for the video is just the last part fo the URL (`https://vimeo.com/57350121` `57350121`)
+
+{{<highlight go>}}
+{{</* vimeo 57350121 */>}}
+{{< /highlight >}}
+
+{{< vimeo 57350121>}}
