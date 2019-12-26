@@ -22,21 +22,23 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
 
 #### Roadmap
-[Mural](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
+[Mural](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)<br/>
 [18F – E&I Prioritization](https://app.mural.co/t/gsa6/m/gsa6/1575925501082/282b2068b64b083531bcfce185d781e9851b9d02)
 
 
 #### Key Deliverables
 | Title | Description | Link |
 |:---|:---|:---|
-| **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](https://github.com/18F/dtmo-hugo/wiki/Developer-Guide) |
+| **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](wiki/Developer-Guide/) |
 | **Github & Federalist** | Dev Accounts | Contact Betsey Grundy to Request Access |
 | **USWDS Custom Styling** | Core design recommendations | PDF |
 | **Information Architecture + Content Models** | A blueprint and navigational aid to the content of the site | PDF |
 | **Manual Landing Page Template** | A page template for table of contents formatted as instructions or for unique cases | Link |
-| **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | Link |
+| **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | [Link](layouts/_default/landingPage.html) |
 | **Handbook Page Template** | A page template for instructional or guidance use cases | Link |
-| **Kitchen Sink Page** | A summary of supported USWDS + Hugo styling components + shortcodes | Link |
+| **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](../content/about/kitchen-sink/ |
+| **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](wiki/) |
+
 
 ---
 
