@@ -3,7 +3,7 @@
 ### About DTMO
 The DTMO serves as the focal point for commercial travel within DoD, providing central oversight for commercial travel management, travel policy and implementation, travel card program management, customer support and training, functional oversight of the Defense Travel System (DTS), and allowance program management. By centralizing travel functions under one organization, the Department is able to standardize management practices, leverage economies of scale, reduce administrative costs, and work towards a common set of goals. DTMO is focused on travel and allowance reform that simplifies travel policy and drives compliance, expands strategic sourcing opportunities, improves programs/processes, leverages current technologies, and reduces the overall cost of travel without impairing DoD’s mission.
 
-[Current Site](https://www.defensetravel.dod.mil/)
+[Current Site](https://www.defensetravel.dod.mil/) <br/>
 [Requires Unique Certificates](https://www.thursby.com/forum/viewtopic.php?t=1331)
 
 #### Description
@@ -25,6 +25,21 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 [Mural](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
 [18F – E&I Prioritization](https://app.mural.co/t/gsa6/m/gsa6/1575925501082/282b2068b64b083531bcfce185d781e9851b9d02)
 
+
+#### Key Deliverables
+| Title | Description | Link |
+|:---|:---|:---|
+| **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](https://github.com/18F/dtmo-hugo/wiki/Developer-Guide) |
+| **Github & Federalist** | Dev Accounts | Contact Betsey Grundy to Request Access |
+| **USWDS Custom Styling** | Core design recommendations | PDF |
+| **Information Architecture + Content Models** | A blueprint and navigational aid to the content of the site | PDF |
+| **Manual Landing Page Template** | A page template for table of contents formatted as instructions or for unique cases | Link |
+| **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | Link |
+| **Handbook Page Template** | A page template for instructional or guidance use cases | Link |
+| **Kitchen Sink Page** | A summary of supported USWDS + Hugo styling components + shortcodes | Link |
+
+---
+
 #### 18F Engagement – Milestones
 | Sprint | Dates | Priorities | Link |
 |:---|:---|:---|:---|
@@ -38,8 +53,3 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **Final Worksession** | 12/10-11 |  Pair on Research and Content, Brief on Tech and Github, Align on Final Delivery | [Materials](https://drive.google.com/open?id=15piQZz29pf2ajr2qOMUc6e5rRhlOQwi7) :lock: |
 | **5** | 12/17-12/27 |  * Research Synthesis & Ongoing Plan <br /> * Site Navigation, Template, Component Refinements <br /> * Editorial, Technical and JTR Recommendations – Documentation | [Sprint Planning Mural](https://app.mural.co/t/gsa6/m/gsa6/1575396097216/a261fbd8fc2969821a7127c3379cfd7d06b7fcd9)|
 | **Handoff** | 1/06-1/10/20 |  * Code Briefing/Handoff <br /> * Editorial & Publication Workflow Recommendation <br /> * Design and Research Briefing | [Sprint Planning Mural](https://app.mural.co/t/gsa6/m/gsa6/1575396097216/a261fbd8fc2969821a7127c3379cfd7d06b7fcd9)|
-
-#### Key Deliverables
-| Title | Description | Link |
-|:---|:---|:---|
-| Information Architecture | Organizational structure for the DTMO site |:---|
