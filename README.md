@@ -36,7 +36,7 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **Manual Landing Page Template** | A page template for table of contents formatted as instructions or for unique cases | Link |
 | **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | [Link](layouts/_default/landingPage.html) |
 | **Handbook Page Template** | A page template for instructional or guidance use cases | Link |
-| **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](../content/about/kitchen-sink/ |
+| **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](content/about/kitchen-sink/ |
 | **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](wiki/) |
 
 
