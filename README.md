@@ -14,8 +14,8 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 
 | # | Goal | We know we’ve succeeded when... |
 |:----|:----|:----|
-| 1 | Map the site navigation to the traveler's needs. | Traveler Sentiment |
-| 2 | Make relevant travel information faster to find. | Decrease all site activity – time on site, clicks, dropoff rate |
+| 1 | Map the site navigation to the traveler's needs. | Increase speed to locate info & organization of content |
+| 2 | Make relevant travel information faster to find. | Increased retention of critical information |
 | 3 | Deprioritized to focus on transition of content: Make the JTR more usable.  | Increase Tier 1 success rate, decrease referrals | 
 | 4 | Improve the capability to update and distribute the JTR. | Reduce time to update or ship |
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
