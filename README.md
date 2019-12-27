@@ -1,18 +1,21 @@
 ## Defense Travel Management Office | DTMO | New Site
-
+<br/>
+<br/>
 ### About DTMO
 The DTMO serves as the focal point for commercial travel within DoD, providing central oversight for commercial travel management, travel policy and implementation, travel card program management, customer support and training, functional oversight of the Defense Travel System (DTS), and allowance program management. By centralizing travel functions under one organization, the Department is able to standardize management practices, leverage economies of scale, reduce administrative costs, and work towards a common set of goals. DTMO is focused on travel and allowance reform that simplifies travel policy and drives compliance, expands strategic sourcing opportunities, improves programs/processes, leverages current technologies, and reduces the overall cost of travel without impairing DoD’s mission.
-
+<br/>
 [Current Site](https://www.defensetravel.dod.mil/) <br/>
 [Requires Unique Certificates](https://www.thursby.com/forum/viewtopic.php?t=1331)
-
+<br/>
+<br/>
 #### Description
 This work was initiated by [18F](https://18f.gsa.gov/) in 2018 and follow-on work was completed Jan 2020. The focus of these engagements was on improving the site and tools use to assist civilians and members of the DoD with travel, and within the constraints of DoD policy. It resulted in building out a new site, supported by a traveler-centric UX/content strategy and a new tech stack to improve procedural efficiencies.
-
+<br/>
+<br/>
 #### Vision
 We're coming up with tools that will simplify the travel program for the DoD traveller so they can focus on furthering their mission and not be challenged by the established process.	
-
-| Priority | Goal | We know we’ve succeeded when... |
+<br />
+| # | Goal | We know we’ve succeeded when... |
 |---------|------|----------------------------------|
 | 1 | Map the site navigation to the traveler's needs. | Traveler Sentiment |
 | 2 | Make relevant travel information faster to find. | Decrease all site activity – time on site, clicks, dropoff rate |
@@ -20,12 +23,13 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | 4 | Improve the capability to update and distribute the JTR. | Reduce time to update or ship |
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
-
+<br/>
+<br/>
 #### Roadmap
 [Mural](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)<br/>
 [18F – E&I Prioritization](https://app.mural.co/t/gsa6/m/gsa6/1575925501082/282b2068b64b083531bcfce185d781e9851b9d02)
-
-
+<br/>
+<br/>
 #### Key Deliverables
 | Title | Description | Link |
 |:---|:---|:---|
@@ -38,10 +42,11 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **Handbook Page Template** | A page template for instructional or guidance use cases | Link |
 | **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](content/about/kitchen-sink/) |
 | **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](wiki/) |
-
-
+<br/>
+<br/>
 ---
-
+<br/>
+<br/>
 #### 18F Engagement – Milestones
 | Sprint | Dates | Priorities | Link |
 |:---|:---|:---|:---|
