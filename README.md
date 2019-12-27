@@ -12,8 +12,8 @@ This work was initiated by [18F](https://18f.gsa.gov/) in 2018 and follow-on wor
 #### Vision
 We're coming up with tools that will simplify the travel program for the DoD traveller so they can focus on furthering their mission and not be challenged by the established process.	
 <br />
-| # | Goal | We know we’ve succeeded when... |
-|---------|------|----------------------------------|
+| Number | Goal | We know we’ve succeeded when... |
+|:---|:---|:---|
 | 1 | Map the site navigation to the traveler's needs. | Traveler Sentiment |
 | 2 | Make relevant travel information faster to find. | Decrease all site activity – time on site, clicks, dropoff rate |
 | 3 | Deprioritized to focus on transition of content: Make the JTR more usable.  | Increase Tier 1 success rate, decrease referrals | 
