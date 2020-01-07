@@ -61,15 +61,21 @@ nav[aria-label='breadcrumb'] {
   }
 }
 
-.usa-logo {
-  background-image: url('/img/seal.png');
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: 4.5rem 4.5rem;
-  padding-left: 5rem;
+.usa-logo .usa-logo__text {
+  font-weight: 400;
 
-  .usa-logo__text {
-    font-weight: 400;
+  a {
+    display: flex;
+  }
+
+  img {
+    margin-right: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .usa-logo img {
+    display: none;
   }
 }
 
