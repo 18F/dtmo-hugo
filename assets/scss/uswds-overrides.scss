@@ -60,3 +60,19 @@ nav[aria-label='breadcrumb'] {
     margin-top: 1em;
   }
 }
+
+.usa-logo {
+  background-image: url('/img/seal.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 4.5rem 4.5rem;
+  padding-left: 5rem;
+
+  .usa-logo__text {
+    font-weight: 400;
+  }
+}
+
+.usa-header .usa-nav {
+  border-color: $medium-grey;
+}
