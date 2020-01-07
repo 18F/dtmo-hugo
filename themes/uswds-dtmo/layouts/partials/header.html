@@ -1,6 +1,13 @@
 {{ partial "usa-banner.html" . }}
   <div class="usa-overlay"></div>
+  {{ $headerType := "" }}
   {{ if or (eq .Params.headerType "extended") (eq .Site.Params.headerType "extended") }}
+    {{ $headerType = "extended" }}
+  {{ else }}
+    {{ $headerType = "basic" }}
+  {{ end }}
+
+  {{ if eq $headerType "extended" }}
   <header class="usa-header usa-header--extended">
     <div class="usa-navbar">
       <div class="usa-logo" id="extended-logo">
