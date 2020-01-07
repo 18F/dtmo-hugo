@@ -2,9 +2,11 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Defense Travel Management Office"
 theme = "uswds-dtmo"
-
 sectionPagesMenu = "main"
 
+[params]
+  headerType = "extended"
+  
 ########
 # Global Navigation
 # Position is determined by weight (lower number comes first)

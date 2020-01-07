@@ -1,8 +1,6 @@
 {{ partial "usa-banner.html" . }}
-
   <div class="usa-overlay"></div>
-
-{{ if .IsHome }}
+  {{ if or (eq .Params.headerType "extended") (eq .Site.Params.headerType "extended") }}
   <header class="usa-header usa-header--extended">
     <div class="usa-navbar">
       <div class="usa-logo" id="extended-logo">
