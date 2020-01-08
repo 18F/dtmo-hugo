@@ -82,3 +82,41 @@ nav[aria-label='breadcrumb'] {
 .usa-header .usa-nav {
   border-color: $medium-grey;
 }
+
+.usa-footer {
+  background-color: $dark-grey;
+  font-size: 0.9rem;
+  color: white;
+  padding: 2em 0 3em 0;
+
+  a,
+  h1,
+  h2,
+  h3 {
+    color: white;
+    text-decoration: none;
+  }
+
+  .contact,
+  .contact + ul {
+    margin-bottom: 2.6em;
+  }
+
+  .tac {
+    margin: 0px;
+    & + p {
+      margin: 0px;
+    }
+  }
+
+  .trax,
+  .contact a {
+    font-weight: bold;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+}
