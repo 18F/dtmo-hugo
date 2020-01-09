@@ -1,6 +1,6 @@
 ---
 title: "Constructed Travel"
-description: "Combining official & personal travel"
+description: "Taking a non-authorized mode of transportation."
 layout: "content"
 ---
 
