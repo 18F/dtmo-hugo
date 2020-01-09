@@ -29,7 +29,7 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 |:---|:---|:---|:---|
 | **1** | Aug-Sept 2018 / Oct 2019 | **Organization & User Research** <br/>* Identify problems & opportunities to improve DTMO's Website <br/>* Vision, research and prioritization | Comms & 18F |
 | **2** | Nov 2019 – Jan 2020 | **Traveler Experience Prototypes & Back-end Setup** <br/>* Improve the Efficiency of Navigation & Search <br/>* Improve DTMO Site Clairty <br/>* Increase DTMO Site Site Operational Efficiency – Development, Authoring & Publishing <br/>* Transitioning JTR <br/>* Increase User Feedback & Research | Comms & 18F & MIB |
-| **3** | Jan 2020 – TBD | **TDY Traveler Website Experience MVP** <br/>* Establish a Team & Process <br/>* Execute Traveler TDY Site Content <br/>* Beta Launch & ATO | Comms & 18F & MIB |
+| **3** | Jan 2020 – TBD | **TDY Traveler Website Experience MVP** <br/>* Establish a Team & Process <br/>* Execute Traveler TDY Site Content <br/>* Beta Launch & ATO | Comms & MIB |
 
 ### Milestone 1 – Key Deliverables 
 | Title | Description | Link |
