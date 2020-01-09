@@ -12,11 +12,12 @@ Here's the short code for the alert box.
 {{% /alert %}}
 
 ## How to do the thing
-
 1. Step one.
 2. Step two. 
 3. ?
 4. Profit
+
+This is a paragraph.
 
 # Get support
 Call me beep me.
