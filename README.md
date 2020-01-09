@@ -1,15 +1,15 @@
-## Defense Travel Management Office | DTMO | New Site
+# Defense Travel Management Office | DTMO | New Site
 
-### About DTMO
+## About DTMO
 The DTMO serves as the focal point for commercial travel within DoD, providing central oversight for commercial travel management, travel policy and implementation, travel card program management, customer support and training, functional oversight of the Defense Travel System (DTS), and allowance program management. By centralizing travel functions under one organization, the Department is able to standardize management practices, leverage economies of scale, reduce administrative costs, and work towards a common set of goals. DTMO is focused on travel and allowance reform that simplifies travel policy and drives compliance, expands strategic sourcing opportunities, improves programs/processes, leverages current technologies, and reduces the overall cost of travel without impairing DoD’s mission.
 
 [Current Site](https://www.defensetravel.dod.mil/) <br/>
 [Requires Unique Certificates](https://www.thursby.com/forum/viewtopic.php?t=1331)
 
-#### Description
+## Description
 This work was initiated by [18F](https://18f.gsa.gov/) in 2018 and follow-on work was completed Jan 2020. The focus of these engagements was on improving the site and tools use to assist civilians and members of the DoD with travel, and within the constraints of DoD policy. It resulted in building out a new site, supported by a traveler-centric UX/content strategy and a new tech stack to improve procedural efficiencies.
 
-#### Vision
+## Vision
 We're coming up with tools that will simplify the travel program for the DoD traveller so they can focus on furthering their mission and not be challenged by the established process.	
 
 | # | Goal | We know we’ve succeeded when... |
@@ -21,8 +21,8 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
 
-#### Roadmap
-[Mural](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)<br/>
+## Roadmap
+[Mural Link](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)<br/>
 [PDF](https://drive.google.com/open?id=1KyN-KyKZICzYLre209Vgs-VwkYR3OukC):lock:
 
 | Milestone | Date | Objective & Goals | Team |
@@ -31,12 +31,12 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **2** | Nov 2019 – Jan 2020 | **Traveler Experience Prototypes & Back-end Setup** <br/>* Improve the Efficiency of Navigation & Search <br/>* Improve DTMO Site Clairty <br/>* Increase DTMO Site Site Operational Efficiency – Development, Authoring & Publishing <br/>* Transitioning JTR <br/>* Increase User Feedback & Research | Comms & 18F & MIB |
 | **3** | Jan 2020 – TBD | **TDY Traveler Website Experience MVP** <br/>* Establish a Team & Process <br/>* Execute Traveler TDY Site Content <br/>* Beta Launch & ATO | Comms & 18F & MIB |
 
-#### Milestone 1 – Key Deliverables 
+### Milestone 1 – Key Deliverables 
 | Title | Description | Link |
 |:---|:---|:---|
 | **18F Path Analysis Final Recommendation** | Problem areas and Opportunities for improvement | [18F Recommendation](https://drive.google.com/open?id=1i2ofFQodQuo6exV6-R2LVDRmjb1nycxvbEXGVpqEXWc):lock: |
 
-#### Milestone 2 – Key Deliverables 
+### Milestone 2 – Key Deliverables 
 | Title | Description | Link |
 |:---|:---|:---|
 | **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Developer-Guide) |
@@ -51,7 +51,9 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 
 ---
 
-#### Milestone 2 – Engagement Timeline
+## Milestone 2 – Engagement Timeline
+[Weekly Ship Doc](https://docs.google.com/document/d/1F0CDLjaoGDCknNR64N6FZZlUC2Cdm5ezoiBg0AfbIKo/edit?usp=sharing):lock:
+
 | Sprint | Dates | Priorities | Link |
 |:---|:---|:---|:---|
 | **KO** | October 7-8, 2019 | Align on PA, Objectives for Engagment, and methods for execution | [Materials](https://drive.google.com/open?id=11H5eZ3PA62sPDAWnPiCWJjNyysGEgAan):lock: |
