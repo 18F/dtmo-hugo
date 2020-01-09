@@ -1,5 +1,5 @@
 ---
-title: "Book a Rental Car"
+title: "Book a rental car"
 description: "This is how you book a rental car or truck"
 layout: "content"
 draft: false
