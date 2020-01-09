@@ -1,4 +1,4 @@
 ---
-title: Booking Travel
+title: Before Traveling
 layout: landingPage
 ---
