@@ -1,6 +1,6 @@
 ---
-title: "Handbook"
-description: "Rental car"
+title: "Book a Rental Car"
+description: "This is how you book a rental car or truck"
 layout: "content"
 draft: false
 ---
