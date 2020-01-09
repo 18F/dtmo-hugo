@@ -41,11 +41,11 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 |:---|:---|:---|
 | **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Developer-Guide) |
 | **Github & Federalist** | Dev Accounts | Contact Betsey Grundy to Request Access |
-| **USWDS Custom Styling** | Core design recommendations | PDF |
+| **USWDS Custom Styling** | Core design recommendations | [PDF](https://drive.google.com/open?id=1H_kJRNY7JDmMdgHu-OA5yJsLMmeVDE1F) |
 | **Information Architecture + Content Models** | A blueprint and navigational aid to the content of the site | PDF |
-| **Manual Landing Page Template** | A page template for table of contents formatted as instructions or for unique cases | Link |
+| **Manual Landing Page Template** | A page template for table of contents formatted as instructions or for unique cases | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Landing-Page-Cheat-Sheet) |
 | **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | [Link](https://github.com/defense-travel-management-office/dtmo-hugo/layouts/_default/landingPage.html) |
-| **Handbook Page Template** | A page template for instructional or guidance use cases | Link |
+| **Handbook Page Template** | A page template for instructional or guidance use cases | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Handbook-Page-Cheat-Sheet) |
 | **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](https://github.com/defense-travel-management-office/dtmo-hugo/content/about/kitchen-sink/) |
 | **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki) |
 
