@@ -37,7 +37,6 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **18F Path Analysis Final Recommendation** | Problem areas and Opportunities for improvement | [18F Recommendation](https://drive.google.com/open?id=1i2ofFQodQuo6exV6-R2LVDRmjb1nycxvbEXGVpqEXWc):lock: |
 
 ### Milestone 2 – Key Deliverables 
-DTMO Archive of All Docs – O:\General DTMO\WebSite Redesign\18F Files - E&I\Handoff Files, Complete
 | Title | Description | Link |
 |:---|:---|:---|
 | **Developer's Guide** | Documentation for working in the new DTMO site | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Developer-Guide) |
@@ -49,6 +48,8 @@ DTMO Archive of All Docs – O:\General DTMO\WebSite Redesign\18F Files - E&I\Ha
 | **Handbook Page Template** | A page template for instructional or guidance use cases | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Handbook-Page-Cheat-Sheet) |
 | **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](https://github.com/defense-travel-management-office/dtmo-hugo/content/about/kitchen-sink/) |
 | **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki) |
+
+_DTMO Archive of All Docs – O:\General DTMO\WebSite Redesign\18F Files - E&I\Handoff Files, Complete_
 
 ---
 
