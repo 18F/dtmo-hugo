@@ -49,18 +49,17 @@ More detailed instructions on how to create an authoriation (pdf)(https://www.de
 
 <maybe add some styling to seperate the core content above from the sections below>
   
-### <policy info> Policy info
+### Policy info
 TK policy info.  [JTR, Ch. X, Par. XYZ, Name of Section]
 
-### <related documents> Related documents
+### Related documents
 
 - [Create an authorization tri-fold (pdf)](https://www.defensetravel.dod.mil/Docs/Training/Authorization_Tri-fold.pdf)
 - [Create an authorization using a trip template (pdf)](https://www.defensetravel.dod.mil/Docs/Trip_Template_Information_Paper.pdf)
 - [Authorizations guide (pdf)](https://www.defensetravel.dod.mil/Docs/DTS_Guide_2_Authorization.pdf)
 
-### <related webpages on DTMO site> Related pages
+### Related pages
 
 - [Here's a related page](URL)
 - [Another related page](URL)
 
-<where should tags go>
