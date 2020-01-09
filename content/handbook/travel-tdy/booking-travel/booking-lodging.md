@@ -1,3 +1,0 @@
-# Lodging! 
-
-## Lodging subheader
