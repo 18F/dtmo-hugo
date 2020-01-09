@@ -47,6 +47,7 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **Automated Landing Page Template** | A page template that supports a title, description and an automatically generated list of child pages | [Link](https://github.com/defense-travel-management-office/dtmo-hugo/layouts/_default/landingPage.html) |
 | **Handbook Page Template** | A page template for instructional or guidance use cases | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki/Handbook-Page-Cheat-Sheet) |
 | **Kitchen Sink – USWDS Components** | A summary of supported USWDS + Hugo styling components + shortcodes | [Link](https://github.com/defense-travel-management-office/dtmo-hugo/content/about/kitchen-sink/) |
+| **User Research Plan** | Recommendations for recruiting and conducting further research | [Deck](https://drive.google.com/open?id=1bYcRbrWEHKy_hRnkIJV1oDB99eaPzR66xLbkfVicYuM) |
 | **18F Documentation** | Further Documentation for research, content, design or project work | [Wiki](https://github.com/defense-travel-management-office/dtmo-hugo/wiki) |
 
 _DTMO Archive of All Docs – O:\General DTMO\WebSite Redesign\18F Files - E&I\Handoff Files, Complete_
