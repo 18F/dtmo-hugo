@@ -1,6 +1,6 @@
 ---
 title: "Temporary Duty (TDY) Travel"
-description: ""
+description: "Everything you need to know about booking TDY travel."
 layout: "content"
 weight: 200
 ---
