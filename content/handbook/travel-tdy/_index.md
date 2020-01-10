@@ -1,6 +1,6 @@
 ---
-title: "Temporary Duty (TDY) Travel 101"
-description: "TDY Travel 101"
+title: "Temporary Duty (TDY) Travel"
+description: ""
 layout: "content"
 weight: 200
 ---
@@ -10,11 +10,10 @@ weight: 200
 Temporary Duty Travel (TDY) is any official travel that lasts between 1-180 days. This includes most of your typical short-term travel. 
 
 
-## 1. Booking travel
+## 1. Before traveling
 
 - [Create an authorization](booking-travel/create-authorization/)
-- Estimate your expenses  
-- Book a flight, train, or rental car
+- Book transportation
 - Book lodging
 - Combining official & personal travel
 - Review and submit your authorization
@@ -23,24 +22,11 @@ Temporary Duty Travel (TDY) is any official travel that lasts between 1-180 days
 ## 2. While traveling
 
 - Dining 
-- Get support
 
 
 ## 3. After traveling
 
-- Submit your voucher and upload receipts
+- Create a voucher 
+- Review and submit a voucher
+- Dealing with a debt
 
-
-## Help & support 
-
-- Change a reservation
-- Emergency travel
-- Travel card issues
-- Get support
-
-
-## Tools & resources
-- DTS
-- JTR
-- TRAX
-- Other training materials
