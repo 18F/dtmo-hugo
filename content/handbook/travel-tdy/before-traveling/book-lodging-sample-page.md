@@ -5,7 +5,7 @@ lastmod: 2020-01-10
 layout: 'content' 
 ---
 
-# Book lodging
+# Book lodging [SAMPLE PAGE]
 
 ## It’s time to book lodging. lskdjfkldjlkjfd
 
